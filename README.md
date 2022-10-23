@@ -2,21 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (today)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (today)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (today)
-- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (6 days ago)
+- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (today)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (today)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (today)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 week ago)
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) - Show unused composer dependencies by scanning your code (2 weeks ago)
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) - Toolkit to parse symbols from a composer package (2 weeks ago)
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure. (3 weeks ago)
-- [LeoVie/qsc-session-repository](https://github.com/LeoVie/qsc-session-repository) - Nothing to see here (3 weeks ago)
+- [LeoVie/aws-tutorial](https://github.com/LeoVie/aws-tutorial) -  (1 month ago)
 
 #### 🌱 My latest projects
 
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - 
-- [LeoVie/qsc-session-repository](https://github.com/LeoVie/qsc-session-repository) - Nothing to see here
 - [LeoVie/aws-tutorial](https://github.com/LeoVie/aws-tutorial) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) - 
 - [LeoVie/xdry-javascript-plugin](https://github.com/LeoVie/xdry-javascript-plugin) - 
@@ -25,6 +24,7 @@
 - [LeoVie/cvbv-praktikum](https://github.com/LeoVie/cvbv-praktikum) - 
 - [LeoVie/docker-wsl-phpunit-phpstorm](https://github.com/LeoVie/docker-wsl-phpunit-phpstorm) - 
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) - 
+- [LeoVie/php-construct-normalize](https://github.com/LeoVie/php-construct-normalize) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,9 +35,9 @@
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.4](https://github.com/composer-unused/composer-unused/releases/tag/0.8.4), 1 week ago) - Show unused composer dependencies by scanning your code
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.10](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.10), 2 weeks ago) - Toolkit to parse symbols from a composer package
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.0.9](https://github.com/Hi-Folks/array/releases/tag/v0.0.9), 3 weeks ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
-- [LeoVie/qsc-session-repository](https://github.com/LeoVie/qsc-session-repository) ([v1.0.0](https://github.com/LeoVie/qsc-session-repository/releases/tag/v1.0.0), 3 weeks ago) - Nothing to see here
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 1 month ago) - 
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4), 1 month ago) - :computer: Parallel testing for PHPUnit
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.11.0](https://github.com/schollz/progressbar/releases/tag/v3.11.0), 1 month ago) - A really basic thread-safe progress bar for Golang applications
 
 #### 🔨 My recent Pull Requests
 
