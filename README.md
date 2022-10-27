@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), today) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 4 days ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 6 days ago) - 
-- [composer/composer](https://github.com/composer/composer) ([2.4.3](https://github.com/composer/composer/releases/tag/2.4.3), 1 week ago) - Dependency Manager for PHP
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.0](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.0), 1 week ago) - Reflection library to do Static Analysis for PHP Projects
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.4](https://github.com/composer-unused/composer-unused/releases/tag/0.8.4), 2 weeks ago) - Show unused composer dependencies by scanning your code
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.10](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.10), 2 weeks ago) - Toolkit to parse symbols from a composer package
