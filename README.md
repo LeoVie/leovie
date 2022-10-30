@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (today)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (today)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (1 week ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (1 week ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 weeks ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 weeks ago)
