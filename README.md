@@ -29,7 +29,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.0](https://github.com/schollz/progressbar/releases/tag/v3.12.0), 1 day ago) - A really basic thread-safe progress bar for Golang applications
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5), 6 days ago) - :computer: Parallel testing for PHPUnit
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 week ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 week ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 1 week ago) - 
@@ -38,6 +37,7 @@
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.10](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.10), 3 weeks ago) - Toolkit to parse symbols from a composer package
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.0.9](https://github.com/Hi-Folks/array/releases/tag/v0.0.9), 1 month ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 1 month ago) - 
+- [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
