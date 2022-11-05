@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (5 days ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (5 days ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (6 days ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (6 days ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (1 week ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.0](https://github.com/schollz/progressbar/releases/tag/v3.12.0), 2 days ago) - A really basic thread-safe progress bar for Golang applications
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.0](https://github.com/schollz/progressbar/releases/tag/v3.12.0), 3 days ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 week ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 week ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 2 weeks ago) - 
@@ -59,7 +59,7 @@
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (7 months ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (1 year ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 years ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 years ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 years ago)
 
 #### 📫 How to reach me
 
