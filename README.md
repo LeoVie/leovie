@@ -4,9 +4,9 @@
 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 weeks ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 weeks ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 weeks ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 weeks ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 month ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) - Show unused composer dependencies by scanning your code (1 month ago)
