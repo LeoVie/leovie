@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 weeks ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 weeks ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (today)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 weeks ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 weeks ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 weeks ago)
