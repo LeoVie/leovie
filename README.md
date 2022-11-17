@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 day ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 day ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 days ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 weeks ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 weeks ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 weeks ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.0.11](https://github.com/Hi-Folks/array/releases/tag/v0.0.11), 6 days ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
+- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.0.11](https://github.com/Hi-Folks/array/releases/tag/v0.0.11), 1 week ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.1](https://github.com/schollz/progressbar/releases/tag/v3.12.1), 1 week ago) - A really basic thread-safe progress bar for Golang applications
-- [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 2 weeks ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 3 weeks ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 3 weeks ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 3 weeks ago) - 
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.0](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.0), 1 month ago) - Reflection library to do Static Analysis for PHP Projects
