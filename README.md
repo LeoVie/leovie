@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 days ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (today)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 weeks ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 weeks ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (today)
 - [#8086 Add colon as prefix of line number in table report, when running in VSCode terminal](https://github.com/phpstan/phpstan-src/pull/1901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [Support namespaces](https://github.com/LeoVie/xdry-php-plugin/pull/21) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (3 weeks ago)
 - [Update php plugin version in testdata](https://github.com/LeoVie/xdry/pull/35) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (3 weeks ago)
@@ -50,7 +51,6 @@
 - [#94 Don&#39;t report packages unused in annotations](https://github.com/composer-unused/composer-unused/pull/404) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (1 month ago)
 - [Add AnnotationStrategy](https://github.com/composer-unused/symbol-parser/pull/62) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (1 month ago)
 - [#137 Add check for multiple question marks](https://github.com/dragonmantank/cron-expression/pull/148) on [dragonmantank/cron-expression](https://github.com/dragonmantank/cron-expression) (1 month ago)
-- [#10 Implement entries method](https://github.com/Hi-Folks/array/pull/37) on [Hi-Folks/array](https://github.com/Hi-Folks/array) (1 month ago)
 
 #### ⭐ Recent Stars
 
