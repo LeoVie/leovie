@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 days ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (3 days ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (5 days ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (3 days ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (4 days ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (4 weeks ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (4 weeks ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (4 weeks ago)
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (3 days ago)
+- [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (4 days ago)
 - [#8086 Add colon as prefix of line number in table report, when running in VSCode terminal](https://github.com/phpstan/phpstan-src/pull/1901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 weeks ago)
 - [Support namespaces](https://github.com/LeoVie/xdry-php-plugin/pull/21) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (4 weeks ago)
 - [Update php plugin version in testdata](https://github.com/LeoVie/xdry/pull/35) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (4 weeks ago)
