@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (1 week ago)
 - [#8086 Add colon as prefix of line number in table report, when running in VSCode terminal](https://github.com/phpstan/phpstan-src/pull/1901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
@@ -50,7 +51,6 @@
 - [Normalize by parsing, instead of tokenization to be more specific abo…](https://github.com/LeoVie/xdry-php-plugin/pull/19) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (1 month ago)
 - [Update xdry-php-plugin](https://github.com/LeoVie/xdry/pull/34) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (1 month ago)
 - [#94 Don&#39;t report packages unused in annotations](https://github.com/composer-unused/composer-unused/pull/404) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (1 month ago)
-- [Add AnnotationStrategy](https://github.com/composer-unused/symbol-parser/pull/62) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (1 month ago)
 
 #### ⭐ Recent Stars
 
