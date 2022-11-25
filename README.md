@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.0.11](https://github.com/Hi-Folks/array/releases/tag/v0.0.11), 2 weeks ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
+- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.0](https://github.com/Hi-Folks/array/releases/tag/v0.1.0), today) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.1](https://github.com/schollz/progressbar/releases/tag/v3.12.1), 2 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 4 weeks ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 month ago) - 
