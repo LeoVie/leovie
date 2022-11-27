@@ -9,8 +9,8 @@
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (1 month ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (1 month ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 month ago)
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) - Toolkit to parse symbols from a composer package (1 month ago)
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) - Show unused composer dependencies by scanning your code (1 month ago)
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) - Toolkit to parse symbols from a composer package (1 month ago)
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure. (1 month ago)
 
 #### 🌱 My latest projects
