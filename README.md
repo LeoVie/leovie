@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), today) - Show unused composer dependencies by scanning your code
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.0](https://github.com/Hi-Folks/array/releases/tag/v0.1.0), 1 week ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.1](https://github.com/schollz/progressbar/releases/tag/v3.12.1), 3 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 month ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 month ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 1 month ago) - 
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.0](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.0), 1 month ago) - Reflection library to do Static Analysis for PHP Projects
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.4](https://github.com/composer-unused/composer-unused/releases/tag/0.8.4), 1 month ago) - Show unused composer dependencies by scanning your code
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.10](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.10), 1 month ago) - Toolkit to parse symbols from a composer package
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 2 months ago) - 
 - [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 5 months ago) - 
