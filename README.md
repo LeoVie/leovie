@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 2 days ago) - Show unused composer dependencies by scanning your code
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 3 days ago) - Show unused composer dependencies by scanning your code
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.0](https://github.com/Hi-Folks/array/releases/tag/v0.1.0), 1 week ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.1](https://github.com/schollz/progressbar/releases/tag/v3.12.1), 4 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 month ago) - Dependency Manager for PHP
