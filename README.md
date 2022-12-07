@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), today) - A really basic thread-safe progress bar for Golang applications
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 4 days ago) - Show unused composer dependencies by scanning your code
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 1 day ago) - A really basic thread-safe progress bar for Golang applications
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 5 days ago) - Show unused composer dependencies by scanning your code
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.0](https://github.com/Hi-Folks/array/releases/tag/v0.1.0), 1 week ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 month ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 month ago) - 
@@ -55,7 +55,7 @@
 #### ⭐ Recent Stars
 
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (2 months ago)
-- [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (6 months ago)
+- [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (7 months ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (8 months ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (1 year ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 years ago)
