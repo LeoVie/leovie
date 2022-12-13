@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (today)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 day ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (3 weeks ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (3 weeks ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (4 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 month ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (1 month ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (1 month ago)
@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 4 days ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
-- [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 4 days ago) - Reflection library to do Static Analysis for PHP Projects
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 6 days ago) - A really basic thread-safe progress bar for Golang applications
+- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 5 days ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
+- [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 5 days ago) - Reflection library to do Static Analysis for PHP Projects
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 1 week ago) - A really basic thread-safe progress bar for Golang applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 1 week ago) - Show unused composer dependencies by scanning your code
 - [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 month ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 month ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 1 month ago) - 
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.10](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.10), 2 months ago) - Toolkit to parse symbols from a composer package
-- [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 2 months ago) - 
+- [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 3 months ago) - 
 - [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (2 months ago)
+- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (3 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (7 months ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (8 months ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (1 year ago)
