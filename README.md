@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (4 days ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (4 weeks ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (5 days ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 month ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (1 month ago)
@@ -43,7 +43,7 @@
 
 - [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
-- [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (4 weeks ago)
+- [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (1 month ago)
 - [#8086 Add colon as prefix of line number in table report, when running in VSCode terminal](https://github.com/phpstan/phpstan-src/pull/1901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Support namespaces](https://github.com/LeoVie/xdry-php-plugin/pull/21) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (1 month ago)
 - [Update php plugin version in testdata](https://github.com/LeoVie/xdry/pull/35) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (1 month ago)
