@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (6 days ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 week ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 month ago)
