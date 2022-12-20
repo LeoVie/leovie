@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.5.0](https://github.com/composer/composer/releases/tag/2.5.0), today) - Dependency Manager for PHP
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 1 week ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 1 week ago) - Reflection library to do Static Analysis for PHP Projects
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 2 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 2 weeks ago) - Show unused composer dependencies by scanning your code
-- [composer/composer](https://github.com/composer/composer) ([2.4.4](https://github.com/composer/composer/releases/tag/2.4.4), 1 month ago) - Dependency Manager for PHP
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 month ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 2 months ago) - 
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.10](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.10), 2 months ago) - Toolkit to parse symbols from a composer package
