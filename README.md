@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.0](https://github.com/composer/composer/releases/tag/2.5.0), today) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.5.0](https://github.com/composer/composer/releases/tag/2.5.0), 1 day ago) - Dependency Manager for PHP
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 1 week ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 1 week ago) - Reflection library to do Static Analysis for PHP Projects
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 2 weeks ago) - A really basic thread-safe progress bar for Golang applications
