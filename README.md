@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 week ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 weeks ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 3 days ago) - Dependency Manager for PHP
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 3 days ago) - Toolkit to parse symbols from a composer package
+- [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 4 days ago) - Dependency Manager for PHP
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 4 days ago) - Toolkit to parse symbols from a composer package
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 2 weeks ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 2 weeks ago) - Reflection library to do Static Analysis for PHP Projects
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 2 weeks ago) - A really basic thread-safe progress bar for Golang applications
@@ -37,7 +37,7 @@
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 2 months ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 2 months ago) - 
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 3 months ago) - 
-- [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 5 months ago) - 
+- [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
