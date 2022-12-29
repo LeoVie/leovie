@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (today)
 - [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 month ago)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (1 month ago)
@@ -50,7 +51,6 @@
 - [Don&#39;t use hex number, if not needed](https://github.com/LeoVie/xdry-php-plugin/pull/20) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 months ago)
 - [Normalize by parsing, instead of tokenization to be more specific abo…](https://github.com/LeoVie/xdry-php-plugin/pull/19) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 months ago)
 - [Update xdry-php-plugin](https://github.com/LeoVie/xdry/pull/34) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (2 months ago)
-- [#94 Don&#39;t report packages unused in annotations](https://github.com/composer-unused/composer-unused/pull/404) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (2 months ago)
 
 #### ⭐ Recent Stars
 
