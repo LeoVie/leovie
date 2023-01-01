@@ -33,7 +33,7 @@
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 3 weeks ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 3 weeks ago) - Reflection library to do Static Analysis for PHP Projects
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.12.2](https://github.com/schollz/progressbar/releases/tag/v3.12.2), 3 weeks ago) - A really basic thread-safe progress bar for Golang applications
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 4 weeks ago) - Show unused composer dependencies by scanning your code
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.5](https://github.com/composer-unused/composer-unused/releases/tag/0.8.5), 1 month ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 2 months ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 2 months ago) - 
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 3 months ago) - 
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (2 days ago)
+- [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (3 days ago)
 - [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 month ago)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (1 month ago)
