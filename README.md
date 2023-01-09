@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (3 weeks ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (4 weeks ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 3 days ago) - A really basic thread-safe progress bar for Golang applications
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 4 days ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 2 weeks ago) - Dependency Manager for PHP
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 2 weeks ago) - Toolkit to parse symbols from a composer package
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 1 month ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
