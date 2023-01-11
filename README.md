@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (today)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (2 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (2 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 months ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix phpunit image](https://github.com/LeoVie/xdry-php-plugin/pull/44) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (today)
 - [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (1 week ago)
 - [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 month ago)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
@@ -50,7 +51,6 @@
 - [Update php plugin version in testdata](https://github.com/LeoVie/xdry/pull/35) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (2 months ago)
 - [Don&#39;t use hex number, if not needed](https://github.com/LeoVie/xdry-php-plugin/pull/20) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 months ago)
 - [Normalize by parsing, instead of tokenization to be more specific abo…](https://github.com/LeoVie/xdry-php-plugin/pull/19) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 months ago)
-- [Update xdry-php-plugin](https://github.com/LeoVie/xdry/pull/34) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (2 months ago)
 
 #### ⭐ Recent Stars
 
