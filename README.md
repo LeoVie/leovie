@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (today)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 week ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 week ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
-- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (2 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (2 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 months ago)
+- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (2 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 months ago)
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) - Toolkit to parse symbols from a composer package (3 months ago)
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) - Show unused composer dependencies by scanning your code (3 months ago)
-- [Hi-Folks/array](https://github.com/Hi-Folks/array) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure. (3 months ago)
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) - Toolkit to parse symbols from a composer package (3 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) - 
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - 
 - [LeoVie/aws-tutorial](https://github.com/LeoVie/aws-tutorial) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) - 
@@ -24,7 +25,6 @@
 - [LeoVie/cvbv-praktikum](https://github.com/LeoVie/cvbv-praktikum) - 
 - [LeoVie/docker-wsl-phpunit-phpstorm](https://github.com/LeoVie/docker-wsl-phpunit-phpstorm) - 
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) - 
-- [LeoVie/php-construct-normalize](https://github.com/LeoVie/php-construct-normalize) - 
 
 #### 🔭 Latest releases I've contributed to
 
