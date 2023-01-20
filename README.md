@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (today)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 day ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 week ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 week ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
