@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (5 days ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 week ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 week ago)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (6 days ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 weeks ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 weeks ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 months ago)
@@ -37,12 +37,12 @@
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 3 months ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 3 months ago) - 
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 4 months ago) - 
-- [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 6 months ago) - 
+- [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [#46 Use new normalize format](https://github.com/LeoVie/xdry-php-plugin/pull/47) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (1 week ago)
-- [Fix phpunit image](https://github.com/LeoVie/xdry-php-plugin/pull/44) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (1 week ago)
+- [#46 Use new normalize format](https://github.com/LeoVie/xdry-php-plugin/pull/47) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
+- [Fix phpunit image](https://github.com/LeoVie/xdry-php-plugin/pull/44) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
 - [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (3 weeks ago)
 - [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 months ago)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 months ago)
