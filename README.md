@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Treat log paths as relative to config directory](https://github.com/infection/infection/pull/1811) on [infection/infection](https://github.com/infection/infection) (today)
 - [#46 Use new normalize format](https://github.com/LeoVie/xdry-php-plugin/pull/47) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
 - [Fix phpunit image](https://github.com/LeoVie/xdry-php-plugin/pull/44) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
 - [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (4 weeks ago)
@@ -50,7 +51,6 @@
 - [#8086 Add colon as prefix of line number in table report, when running in VSCode terminal](https://github.com/phpstan/phpstan-src/pull/1901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 - [Support namespaces](https://github.com/LeoVie/xdry-php-plugin/pull/21) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (3 months ago)
 - [Update php plugin version in testdata](https://github.com/LeoVie/xdry/pull/35) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (3 months ago)
-- [Don&#39;t use hex number, if not needed](https://github.com/LeoVie/xdry-php-plugin/pull/20) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (3 months ago)
 
 #### ⭐ Recent Stars
 
