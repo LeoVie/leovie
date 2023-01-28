@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (today)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 week ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 weeks ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 weeks ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
-- [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 months ago)
+- [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 months ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 months ago)
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) - Show unused composer dependencies by scanning your code (3 months ago)
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) - Toolkit to parse symbols from a composer package (3 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) - 
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - 
 - [LeoVie/aws-tutorial](https://github.com/LeoVie/aws-tutorial) - 
@@ -24,10 +25,10 @@
 - [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - 
 - [LeoVie/cvbv-praktikum](https://github.com/LeoVie/cvbv-praktikum) - 
 - [LeoVie/docker-wsl-phpunit-phpstorm](https://github.com/LeoVie/docker-wsl-phpunit-phpstorm) - 
-- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) - 
 
 #### 🔭 Latest releases I've contributed to
 
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v0.1.3](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v0.1.3), today) - Prevent your phpstan baseline from growing
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 3 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 1 month ago) - Dependency Manager for PHP
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 1 month ago) - Toolkit to parse symbols from a composer package
@@ -37,20 +38,19 @@
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 3 months ago) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 3 months ago) - 
 - [LeoVie/php-token-normalize](https://github.com/LeoVie/php-token-normalize) ([v3.0.0](https://github.com/LeoVie/php-token-normalize/releases/tag/v3.0.0), 4 months ago) - 
-- [LeoVie/php-dry](https://github.com/LeoVie/php-dry) ([v1.7.7](https://github.com/LeoVie/php-dry/releases/tag/v1.7.7), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Treat log paths as relative to config directory](https://github.com/infection/infection/pull/1811) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [#46 Use new normalize format](https://github.com/LeoVie/xdry-php-plugin/pull/47) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
-- [Fix phpunit image](https://github.com/LeoVie/xdry-php-plugin/pull/44) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
-- [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (1 month ago)
-- [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 months ago)
-- [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 months ago)
-- [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (2 months ago)
-- [#8086 Add colon as prefix of line number in table report, when running in VSCode terminal](https://github.com/phpstan/phpstan-src/pull/1901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
-- [Support namespaces](https://github.com/LeoVie/xdry-php-plugin/pull/21) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (3 months ago)
-- [Update php plugin version in testdata](https://github.com/LeoVie/xdry/pull/35) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (3 months ago)
+- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Remove unused dependency](https://github.com/LeoVie/phpstan-baseline-guard/pull/2) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Add CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/1) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
 
 #### ⭐ Recent Stars
 
