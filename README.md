@@ -41,10 +41,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Treat log paths as relative to config directory](https://github.com/infection/infection/pull/1811) on [infection/infection](https://github.com/infection/infection) (today)
+- [Treat log paths as relative to config directory](https://github.com/infection/infection/pull/1811) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [#46 Use new normalize format](https://github.com/LeoVie/xdry-php-plugin/pull/47) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
 - [Fix phpunit image](https://github.com/LeoVie/xdry-php-plugin/pull/44) on [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) (2 weeks ago)
-- [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (4 weeks ago)
+- [#30 Add method to create client with custom base URI](https://github.com/openai-php/client/pull/31) on [openai-php/client](https://github.com/openai-php/client) (1 month ago)
 - [#7387 Add asserting non-empty-string by strlen](https://github.com/vimeo/psalm/pull/8761) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 months ago)
 - [#202 Add rule to prevent final constructors in doctrine entities](https://github.com/phpstan/phpstan-doctrine/pull/395) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 months ago)
 - [Add makefile rule for building for system platform](https://github.com/LeoVie/xdry/pull/42) on [LeoVie/xdry](https://github.com/LeoVie/xdry) (2 months ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (1 day ago)
+- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (2 days ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (4 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (8 months ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (10 months ago)
