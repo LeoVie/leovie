@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (today)
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (1 day ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 week ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 weeks ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v0.1.3](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v0.1.3), today) - Prevent your phpstan baseline from growing
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v0.1.3](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v0.1.3), 1 day ago) - Prevent your phpstan baseline from growing
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 3 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 1 month ago) - Dependency Manager for PHP
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 1 month ago) - Toolkit to parse symbols from a composer package
@@ -41,20 +41,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Remove unused dependency](https://github.com/LeoVie/phpstan-baseline-guard/pull/2) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
-- [Add CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/1) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Remove unused dependency](https://github.com/LeoVie/phpstan-baseline-guard/pull/2) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
+- [Add CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/1) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (2 days ago)
+- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (3 days ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (4 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (8 months ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (10 months ago)
