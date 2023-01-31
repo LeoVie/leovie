@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v0.1.3](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v0.1.3), 3 days ago) - Prevent your phpstan baseline from growing
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), today) - Prevent your phpstan baseline from growing
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 3 weeks ago) - A really basic thread-safe progress bar for Golang applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 1 month ago) - Dependency Manager for PHP
