@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
 - [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
 - [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
@@ -50,7 +51,6 @@
 - [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
 - [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
 - [Remove unused dependency](https://github.com/LeoVie/phpstan-baseline-guard/pull/2) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
-- [Add CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/1) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
 
 #### ⭐ Recent Stars
 
