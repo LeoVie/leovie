@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.2.19](https://github.com/composer/composer/releases/tag/2.2.19), 2 days ago) - Dependency Manager for PHP
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 3 days ago) - Show unused composer dependencies by scanning your code
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 6 days ago) - Prevent your phpstan baseline from growing
+- [composer/composer](https://github.com/composer/composer) ([2.2.19](https://github.com/composer/composer/releases/tag/2.2.19), 3 days ago) - Dependency Manager for PHP
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 4 days ago) - Show unused composer dependencies by scanning your code
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 week ago) - Prevent your phpstan baseline from growing
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 1 month ago) - A really basic thread-safe progress bar for Golang applications
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 1 month ago) - Toolkit to parse symbols from a composer package
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
+- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (4 days ago)
 - [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
 - [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
 - [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
