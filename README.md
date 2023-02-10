@@ -5,13 +5,13 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 week ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (1 week ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (3 weeks ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (4 weeks ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (4 weeks ago)
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 month ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 months ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 months ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 months ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.2.19](https://github.com/composer/composer/releases/tag/2.2.19), 5 days ago) - Dependency Manager for PHP
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 6 days ago) - Show unused composer dependencies by scanning your code
+- [composer/composer](https://github.com/composer/composer) ([2.2.19](https://github.com/composer/composer/releases/tag/2.2.19), 6 days ago) - Dependency Manager for PHP
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 1 week ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 week ago) - Prevent your phpstan baseline from growing
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 1 month ago) - A really basic thread-safe progress bar for Golang applications
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (6 days ago)
+- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
 - [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
 - [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
