@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.2.20](https://github.com/composer/composer/releases/tag/2.2.20), 5 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), today) - Dependency Manager for PHP
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 1 week ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 2 weeks ago) - Prevent your phpstan baseline from growing
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
