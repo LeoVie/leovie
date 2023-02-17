@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 1 day ago) - Dependency Manager for PHP
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 1 week ago) - Show unused composer dependencies by scanning your code
+- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 2 days ago) - Dependency Manager for PHP
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 2 weeks ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 2 weeks ago) - Prevent your phpstan baseline from growing
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 1 month ago) - A really basic thread-safe progress bar for Golang applications
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
+- [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
 - [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
 - [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
 - [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
