@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 weeks ago)
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (2 weeks ago)
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (4 weeks ago)
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (3 weeks ago)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 month ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 2 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 3 days ago) - Dependency Manager for PHP
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 2 weeks ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 2 weeks ago) - Prevent your phpstan baseline from growing
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
@@ -37,20 +37,20 @@
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 2 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 2 months ago) - Reflection library to do Static Analysis for PHP Projects
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 3 months ago) - 
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 3 months ago) - 
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
 - [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
-- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
-- [Remove unused dependency](https://github.com/LeoVie/phpstan-baseline-guard/pull/2) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 weeks ago)
+- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Remove unused dependency](https://github.com/LeoVie/phpstan-baseline-guard/pull/2) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
