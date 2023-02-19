@@ -5,12 +5,12 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 weeks ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (3 weeks ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 month ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 months ago)
-- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (3 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 months ago)
+- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (3 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (4 months ago)
 
 #### 🌱 My latest projects
