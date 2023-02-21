@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.3](https://github.com/vimeo/psalm/releases/tag/5.7.3), today) - A static analysis tool for finding errors in PHP applications
-- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 5 days ago) - Dependency Manager for PHP
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.3](https://github.com/vimeo/psalm/releases/tag/5.7.3), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 6 days ago) - Dependency Manager for PHP
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 2 weeks ago) - Show unused composer dependencies by scanning your code
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 2 weeks ago) - Prevent your phpstan baseline from growing
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 3 weeks ago) - Prevent your phpstan baseline from growing
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 1 month ago) - A really basic thread-safe progress bar for Golang applications
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.11](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.11), 2 months ago) - Toolkit to parse symbols from a composer package
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 2 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
