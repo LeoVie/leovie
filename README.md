@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
 - [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
 - [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
 - [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
@@ -50,7 +51,6 @@
 - [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 - [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 - [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Add license](https://github.com/LeoVie/phpstan-baseline-guard/pull/3) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
