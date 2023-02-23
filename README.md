@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v0.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v0.0.3), today) - 
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v0.0.4](https://github.com/LeoVie/clover-crap-check/releases/tag/v0.0.4), today) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.5](https://github.com/vimeo/psalm/releases/tag/5.7.5), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 1 week ago) - Dependency Manager for PHP
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 2 weeks ago) - Show unused composer dependencies by scanning your code
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
+- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
 - [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
 - [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
 - [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
@@ -49,8 +51,6 @@
 - [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 - [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 - [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Add documentation](https://github.com/LeoVie/phpstan-baseline-guard/pull/5) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Check composer normalization in CI](https://github.com/LeoVie/phpstan-baseline-guard/pull/4) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
