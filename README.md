@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (1 day ago)
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 weeks ago)
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (3 weeks ago)
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (4 weeks ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 month ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.6](https://github.com/vimeo/psalm/releases/tag/5.7.6), today) - A static analysis tool for finding errors in PHP applications
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v0.0.4](https://github.com/LeoVie/clover-crap-check/releases/tag/v0.0.4), 1 day ago) - 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7), today) - A static analysis tool for finding errors in PHP applications
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v0.0.4](https://github.com/LeoVie/clover-crap-check/releases/tag/v0.0.4), 2 days ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 1 week ago) - Dependency Manager for PHP
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 3 weeks ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 3 weeks ago) - Prevent your phpstan baseline from growing
@@ -41,23 +41,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 day ago)
-- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 day ago)
-- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 day ago)
-- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 day ago)
+- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 days ago)
+- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 days ago)
+- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 days ago)
+- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 days ago)
 - [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
-- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
-- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 weeks ago)
+- [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 weeks ago)
+- [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 weeks ago)
+- [Make dev package](https://github.com/LeoVie/phpstan-baseline-guard/pull/8) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 weeks ago)
+- [Fix composer type](https://github.com/LeoVie/phpstan-baseline-guard/pull/7) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 weeks ago)
+- [Make phpstan-baseline-guard available as composer bin](https://github.com/LeoVie/phpstan-baseline-guard/pull/6) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (4 weeks ago)
+- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (1 month ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (5 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (9 months ago)
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (10 months ago)
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (11 months ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (2 years ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 years ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 years ago)
