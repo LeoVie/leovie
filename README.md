@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), today) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.0](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.0), 1 week ago) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 3 weeks ago) - Dependency Manager for PHP
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 month ago) - Prevent your phpstan baseline from growing
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.0](https://github.com/schollz/progressbar/releases/tag/v3.13.0), 2 months ago) - A really basic thread-safe progress bar for Golang applications
