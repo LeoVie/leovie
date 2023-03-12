@@ -6,9 +6,9 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 month ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (1 month ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (1 month ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (1 month ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (1 month ago)
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 months ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 months ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 months ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (3 months ago)
 - [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (4 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (4 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (4 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 1 day ago) - Toolkit to parse symbols from a composer package
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 1 day ago) - Show unused composer dependencies by scanning your code
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 2 days ago) - Toolkit to parse symbols from a composer package
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 2 days ago) - Show unused composer dependencies by scanning your code
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.0](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.0), 1 week ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 3 weeks ago) - Dependency Manager for PHP
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 month ago) - Prevent your phpstan baseline from growing
