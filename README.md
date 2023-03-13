@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 2 days ago) - Toolkit to parse symbols from a composer package
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 2 days ago) - Show unused composer dependencies by scanning your code
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 3 days ago) - Toolkit to parse symbols from a composer package
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 3 days ago) - Show unused composer dependencies by scanning your code
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.0](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.0), 1 week ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 3 weeks ago) - Dependency Manager for PHP
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 month ago) - Prevent your phpstan baseline from growing
@@ -55,7 +55,7 @@
 #### ⭐ Recent Stars
 
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (1 month ago)
-- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (5 months ago)
+- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (6 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (10 months ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (11 months ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (2 years ago)
