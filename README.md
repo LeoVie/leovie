@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), today) - Show unused composer dependencies by scanning your code
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 1 day ago) - A really basic thread-safe progress bar for Golang applications
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 5 days ago) - Toolkit to parse symbols from a composer package
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.6](https://github.com/composer-unused/composer-unused/releases/tag/0.8.6), 5 days ago) - Show unused composer dependencies by scanning your code
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.0](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.0), 2 weeks ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 4 weeks ago) - Dependency Manager for PHP
