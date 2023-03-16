@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.13](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.13), today) - Toolkit to parse symbols from a composer package
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.0](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.0), today) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), 1 day ago) - Show unused composer dependencies by scanning your code
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 2 days ago) - A really basic thread-safe progress bar for Golang applications
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
