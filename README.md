@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), today) - Show unused composer dependencies by scanning your code
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 1 day ago) - A really basic thread-safe progress bar for Golang applications
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 5 days ago) - Toolkit to parse symbols from a composer package
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), 1 day ago) - Show unused composer dependencies by scanning your code
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 2 days ago) - A really basic thread-safe progress bar for Golang applications
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.1.12](https://github.com/composer-unused/symbol-parser/releases/tag/0.1.12), 6 days ago) - Toolkit to parse symbols from a composer package
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.0](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.0), 2 weeks ago) - 
 - [composer/composer](https://github.com/composer/composer) ([2.5.4](https://github.com/composer/composer/releases/tag/2.5.4), 4 weeks ago) - Dependency Manager for PHP
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 month ago) - Prevent your phpstan baseline from growing
@@ -44,10 +44,10 @@
 - [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/5) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
-- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
-- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
-- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
-- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
+- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
+- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
+- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
+- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
 - [#9205 Fix strlen narrowing](https://github.com/vimeo/psalm/pull/9221) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 month ago)
 - [Remove composer.lock](https://github.com/LeoVie/phpstan-baseline-guard/pull/10) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 month ago)
 - [Add installation instructions](https://github.com/LeoVie/phpstan-baseline-guard/pull/9) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 month ago)
