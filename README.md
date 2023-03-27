@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 5 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 6 days ago) - Dependency Manager for PHP
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 1 week ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), 1 week ago) - Show unused composer dependencies by scanning your code
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 1 week ago) - A really basic thread-safe progress bar for Golang applications
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/5) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
@@ -54,10 +54,10 @@
 
 #### ⭐ Recent Stars
 
-- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (1 month ago)
+- [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (2 months ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (6 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (10 months ago)
-- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (11 months ago)
+- [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (1 year ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (2 years ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 years ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 years ago)
