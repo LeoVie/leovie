@@ -36,8 +36,8 @@
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.0](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.0), 1 month ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 1 month ago) - Prevent your phpstan baseline from growing
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 3 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
-- [phpDocumentor/Reflection](https://github.com/phpDocumentor/Reflection) ([5.3.1](https://github.com/phpDocumentor/Reflection/releases/tag/5.3.1), 3 months ago) - Reflection library to do Static Analysis for PHP Projects
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 5 months ago) - 
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
