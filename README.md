@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (today)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (2 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (2 months ago)
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 months ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (2 months ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (2 months ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (3 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (5 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (5 months ago)
-- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (5 months ago)
 
 #### 🌱 My latest projects
 
