@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (1 week ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (2 weeks ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (2 months ago)
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (2 months ago)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (3 months ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (3 months ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (3 months ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (4 months ago)
@@ -59,7 +59,7 @@
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (11 months ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (1 year ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (2 years ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 years ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 years ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 years ago)
 
 #### 📫 How to reach me
