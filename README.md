@@ -29,8 +29,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.2), 2 weeks ago) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 4 weeks ago) - Dependency Manager for PHP
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
+- [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 1 month ago) - Dependency Manager for PHP
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37), 1 month ago) - Doctrine extensions for PHPStan
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 1 month ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), 1 month ago) - Show unused composer dependencies by scanning your code
