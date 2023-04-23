@@ -11,7 +11,7 @@
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (3 months ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (3 months ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (4 months ago)
-- [LeoVie/leovie](https://github.com/LeoVie/leovie) -  (6 months ago)
+- [LeoVie/php-dry-website](https://github.com/LeoVie/php-dry-website) -  (6 months ago)
 
 #### 🌱 My latest projects
 
