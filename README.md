@@ -4,7 +4,7 @@
 
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (2 weeks ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (2 weeks ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (2 weeks ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (3 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (2 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (3 months ago)
@@ -43,7 +43,7 @@
 
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 weeks ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
-- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 weeks ago)
+- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 - [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/5) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
