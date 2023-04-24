@@ -47,10 +47,10 @@
 - [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/5) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
-- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
-- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
-- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
-- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
+- [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
+- [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
+- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
+- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
 
 #### ⭐ Recent Stars
 
