@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (3 weeks ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (3 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (3 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 months ago)
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (2 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (3 months ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (3 months ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (3 months ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), today) - Prevent your phpstan baseline from growing
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.2), 3 weeks ago) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 1 month ago) - Dependency Manager for PHP
@@ -35,12 +36,13 @@
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 1 month ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.7](https://github.com/composer-unused/composer-unused/releases/tag/0.8.7), 1 month ago) - Show unused composer dependencies by scanning your code
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 1 month ago) - A really basic thread-safe progress bar for Golang applications
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.0](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.0), 2 months ago) - Prevent your phpstan baseline from growing
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 4 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
+- [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (today)
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
 - [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
@@ -49,8 +51,6 @@
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/5) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
 - [Pretty print baseline](https://github.com/LeoVie/clover-crap-check/pull/4) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
 - [Simplify readme](https://github.com/LeoVie/clover-crap-check/pull/3) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
-- [Call binary via php](https://github.com/LeoVie/clover-crap-check/pull/2) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
-- [Fix binary name](https://github.com/LeoVie/clover-crap-check/pull/1) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 months ago)
 
 #### ⭐ Recent Stars
 
