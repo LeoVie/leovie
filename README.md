@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (5 days ago)
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (6 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (3 weeks ago)
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (6 days ago)
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (1 week ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (4 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (1 month ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (3 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.10.0](https://github.com/vimeo/psalm/releases/tag/5.10.0), today) - A static analysis tool for finding errors in PHP applications
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 5 days ago) - 
-- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 6 days ago) - Prevent your phpstan baseline from growing
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.10.0](https://github.com/vimeo/psalm/releases/tag/5.10.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 6 days ago) - 
+- [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 1 week ago) - Prevent your phpstan baseline from growing
 - [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 1 month ago) - Dependency Manager for PHP
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37), 1 month ago) - Doctrine extensions for PHPStan
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 1 month ago) - Toolkit to parse symbols from a composer package
@@ -41,9 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (5 days ago)
-- [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
-- [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 days ago)
+- [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (6 days ago)
+- [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
+- [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 week ago)
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (4 weeks ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 month ago)
 - [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
