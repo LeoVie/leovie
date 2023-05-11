@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.39](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.39), today) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), today) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 2 weeks ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 2 weeks ago) - Prevent your phpstan baseline from growing
