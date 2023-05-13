@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 day ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 days ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (2 weeks ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (1 month ago)
@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.8](https://github.com/composer-unused/composer-unused/releases/tag/0.8.8), today) - Show unused composer dependencies by scanning your code
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 1 day ago) - Doctrine extensions for PHPStan
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.8](https://github.com/composer-unused/composer-unused/releases/tag/0.8.8), 1 day ago) - Show unused composer dependencies by scanning your code
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 2 days ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [infection/infection](https://github.com/infection/infection) ([0.26.21](https://github.com/infection/infection/releases/tag/0.26.21), 2 weeks ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 2 weeks ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 2 weeks ago) - Prevent your phpstan baseline from growing
 - [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 1 month ago) - Dependency Manager for PHP
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 1 month ago) - Toolkit to parse symbols from a composer package
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 1 month ago) - A really basic thread-safe progress bar for Golang applications
+- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 2 months ago) - A really basic thread-safe progress bar for Golang applications
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 5 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 
 #### 🔨 My recent Pull Requests
