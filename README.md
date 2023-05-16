@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), today) - PHP Mutation Testing library
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.8](https://github.com/composer-unused/composer-unused/releases/tag/0.8.8), 4 days ago) - Show unused composer dependencies by scanning your code
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 5 days ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [infection/infection](https://github.com/infection/infection) ([0.26.21](https://github.com/infection/infection/releases/tag/0.26.21), 2 weeks ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 2 weeks ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 2 weeks ago) - Prevent your phpstan baseline from growing
 - [composer/composer](https://github.com/composer/composer) ([2.5.5](https://github.com/composer/composer/releases/tag/2.5.5), 1 month ago) - Dependency Manager for PHP
