@@ -8,7 +8,7 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (1 month ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (1 month ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 months ago)
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (3 months ago)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (4 months ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (4 months ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (4 months ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (5 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 2 days ago) - PHP Mutation Testing library
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.8](https://github.com/composer-unused/composer-unused/releases/tag/0.8.8), 6 days ago) - Show unused composer dependencies by scanning your code
+- [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 3 days ago) - PHP Mutation Testing library
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.8](https://github.com/composer-unused/composer-unused/releases/tag/0.8.8), 1 week ago) - Show unused composer dependencies by scanning your code
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 1 week ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 3 weeks ago) - 
