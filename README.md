@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.9](https://github.com/composer-unused/composer-unused/releases/tag/0.8.9), 1 day ago) - Show unused composer dependencies by scanning your code
-- [composer/composer](https://github.com/composer/composer) ([2.5.7](https://github.com/composer/composer/releases/tag/2.5.7), 6 days ago) - Dependency Manager for PHP
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.9](https://github.com/composer-unused/composer-unused/releases/tag/0.8.9), 2 days ago) - Show unused composer dependencies by scanning your code
+- [composer/composer](https://github.com/composer/composer) ([2.5.7](https://github.com/composer/composer/releases/tag/2.5.7), 1 week ago) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 2 weeks ago) - PHP Mutation Testing library
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 2 weeks ago) - Doctrine extensions for PHPStan
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (6 days ago)
+- [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (1 week ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (1 week ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (4 months ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (8 months ago)
