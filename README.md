@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 weeks ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 weeks ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (1 month ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (1 month ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (1 month ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (2 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (4 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (4 months ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (4 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.9](https://github.com/composer-unused/composer-unused/releases/tag/0.8.9), 2 days ago) - Show unused composer dependencies by scanning your code
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.9](https://github.com/composer-unused/composer-unused/releases/tag/0.8.9), 3 days ago) - Show unused composer dependencies by scanning your code
 - [composer/composer](https://github.com/composer/composer) ([2.5.7](https://github.com/composer/composer/releases/tag/2.5.7), 1 week ago) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 2 weeks ago) - PHP Mutation Testing library
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 2 weeks ago) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 3 weeks ago) - Doctrine extensions for PHPStan
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 1 month ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 1 month ago) - Prevent your phpstan baseline from growing
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 2 months ago) - Toolkit to parse symbols from a composer package
