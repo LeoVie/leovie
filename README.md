@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 6 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 1 week ago) - Dependency Manager for PHP
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.9](https://github.com/composer-unused/composer-unused/releases/tag/0.8.9), 2 weeks ago) - Show unused composer dependencies by scanning your code
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 1 month ago) - PHP Mutation Testing library
