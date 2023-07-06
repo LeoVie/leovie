@@ -37,7 +37,7 @@
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 2 months ago) - Prevent your phpstan baseline from growing
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 3 months ago) - Toolkit to parse symbols from a composer package
 - [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 3 months ago) - A really basic thread-safe progress bar for Golang applications
-- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 6 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
+- [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 7 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
 
 #### 🔨 My recent Pull Requests
 
