@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 4 days ago) - Show unused composer dependencies by scanning your code
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 5 days ago) - Show unused composer dependencies by scanning your code
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 1 month ago) - Dependency Manager for PHP
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 1 month ago) - PHP Mutation Testing library
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40), 2 months ago) - Doctrine extensions for PHPStan
@@ -57,7 +57,7 @@
 - [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (1 month ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (1 month ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (5 months ago)
-- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (9 months ago)
+- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (10 months ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (1 year ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (1 year ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (2 years ago)
