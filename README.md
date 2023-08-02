@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (today)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (3 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (3 months ago)
@@ -11,10 +12,10 @@
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (6 months ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (6 months ago)
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (6 months ago)
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (7 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) - 
@@ -24,7 +25,6 @@
 - [LeoVie/xdry-javascript-plugin](https://github.com/LeoVie/xdry-javascript-plugin) - 
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) - 
 - [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - 
-- [LeoVie/cvbv-praktikum](https://github.com/LeoVie/cvbv-praktikum) - 
 
 #### 🔭 Latest releases I've contributed to
 
