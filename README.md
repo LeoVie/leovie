@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (1 day ago)
-- [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (2 days ago)
+- [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (3 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 1 month ago) - Show unused composer dependencies by scanning your code
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 1 month ago) - Dependency Manager for PHP
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 2 months ago) - PHP Mutation Testing library
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
+- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 months ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 months ago)
 - [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (3 months ago)
