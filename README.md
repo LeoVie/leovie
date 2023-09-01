@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (3 weeks ago)
-- [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (4 weeks ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (4 weeks ago)
+- [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (1 month ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (4 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (4 months ago)
@@ -41,11 +41,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
+- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 weeks ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (4 months ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 months ago)
 - [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 months ago)
-- [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (4 months ago)
+- [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (5 months ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (5 months ago)
 - [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 months ago)
 - [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (6 months ago)
