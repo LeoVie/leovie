@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (4 weeks ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (1 month ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (1 month ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (4 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 1 day ago) - Doctrine extensions for PHPStan
-- [composer/composer](https://github.com/composer/composer) ([2.6.1](https://github.com/composer/composer/releases/tag/2.6.1), 1 day ago) - Dependency Manager for PHP
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 2 days ago) - Doctrine extensions for PHPStan
+- [composer/composer](https://github.com/composer/composer) ([2.6.1](https://github.com/composer/composer/releases/tag/2.6.1), 2 days ago) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 1 month ago) - Show unused composer dependencies by scanning your code
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 3 months ago) - PHP Mutation Testing library
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 weeks ago)
+- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (4 months ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 months ago)
 - [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (4 months ago)
