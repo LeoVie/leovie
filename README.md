@@ -36,8 +36,8 @@
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 4 months ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 4 months ago) - Prevent your phpstan baseline from growing
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 5 months ago) - Toolkit to parse symbols from a composer package
-- [schollz/progressbar](https://github.com/schollz/progressbar) ([v3.13.1](https://github.com/schollz/progressbar/releases/tag/v3.13.1), 5 months ago) - A really basic thread-safe progress bar for Golang applications
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 9 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
