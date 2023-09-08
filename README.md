@@ -4,14 +4,14 @@
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (1 month ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (1 month ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 months ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (4 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (4 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (4 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (5 months ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (5 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (7 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (7 months ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (7 months ago)
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 4 days ago) - Dependency Manager for PHP
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 6 days ago) - Doctrine extensions for PHPStan
+- [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 5 days ago) - Dependency Manager for PHP
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 1 week ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 2 months ago) - Show unused composer dependencies by scanning your code
 - [infection/infection](https://github.com/infection/infection) ([0.27.0](https://github.com/infection/infection/releases/tag/0.27.0), 3 months ago) - PHP Mutation Testing library
