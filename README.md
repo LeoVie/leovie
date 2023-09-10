@@ -11,7 +11,7 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (5 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (7 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (7 months ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (8 months ago)
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (8 months ago)
 
 #### 🌱 My latest projects
 
