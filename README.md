@@ -10,7 +10,7 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (5 months ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (5 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (7 months ago)
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (7 months ago)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (8 months ago)
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.3](https://github.com/composer/composer/releases/tag/2.6.3), today) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.6.3](https://github.com/composer/composer/releases/tag/2.6.3), 1 day ago) - Dependency Manager for PHP
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 2 weeks ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 2 months ago) - Show unused composer dependencies by scanning your code
