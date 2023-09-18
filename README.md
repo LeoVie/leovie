@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.27.2](https://github.com/infection/infection/releases/tag/0.27.2), 1 day ago) - PHP Mutation Testing library
-- [composer/composer](https://github.com/composer/composer) ([2.6.3](https://github.com/composer/composer/releases/tag/2.6.3), 2 days ago) - Dependency Manager for PHP
+- [infection/infection](https://github.com/infection/infection) ([0.27.2](https://github.com/infection/infection/releases/tag/0.27.2), 2 days ago) - PHP Mutation Testing library
+- [composer/composer](https://github.com/composer/composer) ([2.6.3](https://github.com/composer/composer/releases/tag/2.6.3), 3 days ago) - Dependency Manager for PHP
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 2 weeks ago) - Doctrine extensions for PHPStan
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 4 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.8.10](https://github.com/composer-unused/composer-unused/releases/tag/0.8.10), 2 months ago) - Show unused composer dependencies by scanning your code
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 4 months ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 4 months ago) - Prevent your phpstan baseline from growing
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.1), 6 months ago) - Toolkit to parse symbols from a composer package
 - [Hi-Folks/array](https://github.com/Hi-Folks/array) ([v0.1.1](https://github.com/Hi-Folks/array/releases/tag/v0.1.1), 9 months ago) - Arr class is built on top of the PHP array functions. Arr exposes methods for creating, managing, accessing to the array data structure.
-- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 10 months ago) - 
+- [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
