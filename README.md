@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 6 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.6.4](https://github.com/composer/composer/releases/tag/2.6.4), 1 week ago) - Dependency Manager for PHP
 - [infection/infection](https://github.com/infection/infection) ([0.27.3](https://github.com/infection/infection/releases/tag/0.27.3), 1 week ago) - PHP Mutation Testing library
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 1 month ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
