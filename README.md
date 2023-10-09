@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) -  (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (2 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (2 months ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (5 months ago)
@@ -11,10 +12,10 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (6 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (8 months ago)
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (8 months ago)
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) -  (9 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - 
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing
@@ -24,7 +25,6 @@
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) - 
 - [LeoVie/xdry-javascript-plugin](https://github.com/LeoVie/xdry-javascript-plugin) - 
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) - 
-- [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - 
 
 #### 🔭 Latest releases I've contributed to
 
