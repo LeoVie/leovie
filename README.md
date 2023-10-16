@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) -  (6 days ago)
+- [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) -  (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (2 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (2 months ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (5 months ago)
@@ -11,7 +11,7 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (6 months ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (6 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (8 months ago)
-- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (8 months ago)
+- [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) -  (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.27.5](https://github.com/infection/infection/releases/tag/0.27.5), today) - PHP Mutation Testing library
+- [infection/infection](https://github.com/infection/infection) ([0.27.5](https://github.com/infection/infection/releases/tag/0.27.5), 1 day ago) - PHP Mutation Testing library
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43), 1 month ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 5 months ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 5 months ago) - Prevent your phpstan baseline from growing
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 11 months ago) - 
-- [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 11 months ago) - 
+- [LeoVie/xdry](https://github.com/LeoVie/xdry) ([v0.0.23](https://github.com/LeoVie/xdry/releases/tag/v0.0.23), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
