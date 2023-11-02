@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) -  (3 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (2 months ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (3 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (3 months ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (5 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (6 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45), 3 days ago) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45), 4 days ago) - Doctrine extensions for PHPStan
 - [infection/infection](https://github.com/infection/infection) ([0.27.6](https://github.com/infection/infection/releases/tag/0.27.6), 2 weeks ago) - PHP Mutation Testing library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 2 months ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 6 months ago) - 
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 months ago)
+- [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 months ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (6 months ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 months ago)
 - [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (6 months ago)
@@ -55,7 +55,7 @@
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (5 months ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (9 months ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (1 year ago)
-- [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (1 year ago)
+- [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (2 years ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (2 years ago)
 - [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (2 years ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 years ago)
