@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.52](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.52), today) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53), today) - Doctrine extensions for PHPStan
 - [infection/infection](https://github.com/infection/infection) ([0.27.8](https://github.com/infection/infection/releases/tag/0.27.8), 1 week ago) - PHP Mutation Testing library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0), 3 months ago) - A static analysis tool for finding errors in PHP applications
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 6 months ago) - 
