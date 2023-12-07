@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (3 weeks ago)
+- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (4 weeks ago)
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) -  (1 month ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (4 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (4 months ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (6 months ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (7 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (7 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (7 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (8 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53), 2 weeks ago) - Doctrine extensions for PHPStan
 - [infection/infection](https://github.com/infection/infection) ([0.27.8](https://github.com/infection/infection/releases/tag/0.27.8), 4 weeks ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 7 months ago) - 
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (3 weeks ago)
+- [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (4 weeks ago)
 - [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 months ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (7 months ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (7 months ago)
