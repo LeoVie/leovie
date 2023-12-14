@@ -21,10 +21,10 @@
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing
 - [LeoVie/mocking-strategy](https://github.com/LeoVie/mocking-strategy) - 
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - 
-- [LeoVie/aws-tutorial](https://github.com/LeoVie/aws-tutorial) - 
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) - 
 - [LeoVie/xdry-javascript-plugin](https://github.com/LeoVie/xdry-javascript-plugin) - 
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) - 
+- [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - 
 
 #### 🔭 Latest releases I've contributed to
 
