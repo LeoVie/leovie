@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [infection/infection](https://github.com/infection/infection) ([0.27.9](https://github.com/infection/infection/releases/tag/0.27.9), 1 week ago) - PHP Mutation Testing library
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53), 3 weeks ago) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53), 4 weeks ago) - Doctrine extensions for PHPStan
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 7 months ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 7 months ago) - Prevent your phpstan baseline from growing
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) ([v0.3.2](https://github.com/LeoVie/xdry-php-plugin/releases/tag/v0.3.2), 1 year ago) - 
@@ -45,14 +45,14 @@
 - [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (7 months ago)
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (8 months ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (8 months ago)
-- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (8 months ago)
+- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (9 months ago)
 - [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (9 months ago)
 - [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (9 months ago)
 
 #### ⭐ Recent Stars
 
 - [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (6 months ago)
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (6 months ago)
+- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (7 months ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (10 months ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (1 year ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (2 years ago)
