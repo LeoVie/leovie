@@ -46,12 +46,12 @@
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (8 months ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (8 months ago)
 - [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (9 months ago)
-- [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (9 months ago)
-- [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (9 months ago)
+- [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (10 months ago)
+- [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (4 days ago)
 - [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (7 months ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (7 months ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (11 months ago)
