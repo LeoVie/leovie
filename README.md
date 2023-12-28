@@ -10,7 +10,7 @@
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) -  (8 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (8 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (8 months ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (8 months ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (9 months ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (11 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [infection/infection](https://github.com/infection/infection) ([0.27.9](https://github.com/infection/infection/releases/tag/0.27.9), 2 weeks ago) - PHP Mutation Testing library
+- [infection/infection](https://github.com/infection/infection) ([0.27.9](https://github.com/infection/infection/releases/tag/0.27.9), 3 weeks ago) - PHP Mutation Testing library
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53), 1 month ago) - Doctrine extensions for PHPStan
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 8 months ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 8 months ago) - Prevent your phpstan baseline from growing
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (1 week ago)
 - [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (7 months ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (7 months ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (11 months ago)
