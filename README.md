@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (1 month ago)
+- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (2 months ago)
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) -  (3 months ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (5 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (5 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54), 2 days ago) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54), 3 days ago) - Doctrine extensions for PHPStan
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [infection/infection](https://github.com/infection/infection) ([0.27.9](https://github.com/infection/infection/releases/tag/0.27.9), 1 month ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 8 months ago) - 
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (1 month ago)
+- [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (2 months ago)
 - [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 months ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (8 months ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (8 months ago)
