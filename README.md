@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59), 5 days ago) - Doctrine extensions for PHPStan
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59), 6 days ago) - Doctrine extensions for PHPStan
 - [infection/infection](https://github.com/infection/infection) ([0.27.9](https://github.com/infection/infection/releases/tag/0.27.9), 1 month ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 9 months ago) - 
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 9 months ago) - Prevent your phpstan baseline from growing
@@ -44,8 +44,8 @@
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (9 months ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (9 months ago)
 - [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (10 months ago)
-- [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (10 months ago)
-- [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (10 months ago)
+- [Fix permissions in CI](https://github.com/LeoVie/clover-crap-check/pull/7) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (11 months ago)
+- [Build phar in CI](https://github.com/LeoVie/clover-crap-check/pull/6) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (11 months ago)
 
 #### ⭐ Recent Stars
 
