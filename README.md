@@ -23,7 +23,7 @@
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) - Programming language agnostic clone detection
 - [LeoVie/xdry-javascript-plugin](https://github.com/LeoVie/xdry-javascript-plugin) - JavaScript plugin for xdry
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) - PHP plugin for xdry
-- [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - 
+- [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - Allows you to use the CLI of JetBrains IDEs for Windows via WSL
 
 #### 🔭 Latest releases I've contributed to
 
