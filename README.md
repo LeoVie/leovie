@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.60](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.60), 1 day ago) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.61](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.61), today) - Doctrine extensions for PHPStan
 - [infection/infection](https://github.com/infection/infection) ([0.27.9](https://github.com/infection/infection/releases/tag/0.27.9), 2 months ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 9 months ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 9 months ago) - Prevent your phpstan baseline from growing
