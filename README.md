@@ -10,7 +10,7 @@
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (10 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (10 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (10 months ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (10 months ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.27.10](https://github.com/infection/infection/releases/tag/0.27.10), 5 days ago) - PHP Mutation Testing library
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62), 1 week ago) - Doctrine extensions for PHPStan
+- [infection/infection](https://github.com/infection/infection) ([0.27.10](https://github.com/infection/infection/releases/tag/0.27.10), 6 days ago) - PHP Mutation Testing library
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62), 2 weeks ago) - Doctrine extensions for PHPStan
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 10 months ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 10 months ago) - Prevent your phpstan baseline from growing
 
