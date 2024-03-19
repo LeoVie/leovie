@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.63](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.63), today) - Doctrine extensions for PHPStan
-- [infection/infection](https://github.com/infection/infection) ([0.27.10](https://github.com/infection/infection/releases/tag/0.27.10), 3 weeks ago) - PHP Mutation Testing library
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.63](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.63), 1 day ago) - Doctrine extensions for PHPStan
+- [infection/infection](https://github.com/infection/infection) ([0.27.10](https://github.com/infection/infection/releases/tag/0.27.10), 4 weeks ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 10 months ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 10 months ago) - Prevent your phpstan baseline from growing
 
@@ -49,7 +49,7 @@
 
 - [renyuneyun/parse-link-header-ts](https://github.com/renyuneyun/parse-link-header-ts) - Parses a link header and returns paging information for each contained link. (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (2 months ago)
-- [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (9 months ago)
+- [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (10 months ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (10 months ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (1 year ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (2 years ago)
