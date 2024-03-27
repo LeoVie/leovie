@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (2 days ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (3 days ago)
 - [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (4 months ago)
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - Stupid simple REST API to list count of files with specified extension in specified directories. (5 months ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (7 months ago)
@@ -11,7 +11,7 @@
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (11 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (11 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (11 months ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (11 months ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.28.1](https://github.com/infection/infection/releases/tag/0.28.1), 1 day ago) - PHP Mutation Testing library
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.64](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.64), 5 days ago) - Doctrine extensions for PHPStan
+- [infection/infection](https://github.com/infection/infection) ([0.28.1](https://github.com/infection/infection/releases/tag/0.28.1), 2 days ago) - PHP Mutation Testing library
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.64](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.64), 6 days ago) - Doctrine extensions for PHPStan
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 11 months ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 11 months ago) - Prevent your phpstan baseline from growing
 
