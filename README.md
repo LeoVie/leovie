@@ -7,7 +7,7 @@
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - Stupid simple REST API to list count of files with specified extension in specified directories. (5 months ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (8 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (8 months ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (10 months ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (11 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (11 months ago)
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) - Prevent your phpstan baseline from growing (11 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (1 year ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.65](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.65), today) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.65](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.65), 1 day ago) - Doctrine extensions for PHPStan
 - [infection/infection](https://github.com/infection/infection) ([0.28.1](https://github.com/infection/infection/releases/tag/0.28.1), 1 week ago) - PHP Mutation Testing library
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 11 months ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 - [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) ([v1.0.2](https://github.com/LeoVie/phpstan-baseline-guard/releases/tag/v1.0.2), 11 months ago) - Prevent your phpstan baseline from growing
