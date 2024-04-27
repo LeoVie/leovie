@@ -27,7 +27,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [infection/infection](https://github.com/infection/infection) ([0.28.1](https://github.com/infection/infection/releases/tag/0.28.1), 1 month ago) - PHP Mutation Testing library
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 1 year ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 
 #### 🔨 My recent Pull Requests
 
