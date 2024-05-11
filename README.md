@@ -24,7 +24,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.28.1](https://github.com/infection/infection/releases/tag/0.28.1), 1 month ago) - PHP Mutation Testing library
 
 #### 🔨 My recent Pull Requests
 
