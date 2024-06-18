@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (3 weeks ago)
+- [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (4 weeks ago)
 - [renyuneyun/parse-link-header-ts](https://github.com/renyuneyun/parse-link-header-ts) - Parses a link header and returns paging information for each contained link. (4 months ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (5 months ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (6 months ago)
 - [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (1 year ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (1 year ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (1 year ago)
