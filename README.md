@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (3 months ago)
-- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (7 months ago)
+- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (8 months ago)
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - Stupid simple REST API to list count of files with specified extension in specified directories. (9 months ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code (11 months ago)
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates (11 months ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (7 months ago)
+- [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (8 months ago)
 - [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (11 months ago)
 - [Add support for PHP 8.1](https://github.com/LeoVie/clover-crap-check/pull/10) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 year ago)
 - [Use correct filename for phar](https://github.com/LeoVie/phpstan-baseline-guard/pull/12) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (1 year ago)
