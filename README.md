@@ -4,7 +4,7 @@
 
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (5 months ago)
 - [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (9 months ago)
-- [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - Stupid simple REST API to list count of files with specified extension in specified directories. (10 months ago)
+- [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - Stupid simple REST API to list count of files with specified extension in specified directories. (11 months ago)
 
 #### 🌱 My latest projects
 
