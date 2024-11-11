@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (7 months ago)
-- [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki. (1 year ago)
 
 #### 🌱 My latest projects
 
