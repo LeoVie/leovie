@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add missing space before headerClass (#138)](https://github.com/siemens/ngx-datatable/pull/139) on [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable) (6 days ago)
+- [fix: add missing space before headerClass (#138)](https://github.com/siemens/ngx-datatable/pull/139) on [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable) (1 week ago)
 - [#112 Remove dead menu link](https://github.com/usebruno/bruno-docs/pull/113) on [usebruno/bruno-docs](https://github.com/usebruno/bruno-docs) (4 months ago)
 - [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (1 year ago)
 - [Remove nette/utils to allow easier install](https://github.com/TomasVotruba/unused-public/pull/87) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 year ago)
