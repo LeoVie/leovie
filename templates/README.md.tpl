@@ -27,4 +27,4 @@
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/eivleo
+- Bluesky: https://bsky.app/profile/leo-vie.bsky.social
