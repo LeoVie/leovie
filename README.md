@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (today)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (11 months ago)
 
 #### 🌱 My latest projects
@@ -48,4 +49,4 @@
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/eivleo
+- Bluesky: https://bsky.app/profile/leo-vie.bsky.social
