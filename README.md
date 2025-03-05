@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (1 week ago)
+- [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (2 weeks ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (11 months ago)
 
 #### 🌱 My latest projects
