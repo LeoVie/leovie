@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (today)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (1 month ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 year ago)
 
@@ -20,9 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 2 years ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies, require php 8.4](https://github.com/LeoVie/clover-crap-check/pull/11) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (today)
 - [fix: add missing space before headerClass (#138)](https://github.com/siemens/ngx-datatable/pull/139) on [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable) (2 months ago)
 - [#112 Remove dead menu link](https://github.com/usebruno/bruno-docs/pull/113) on [usebruno/bruno-docs](https://github.com/usebruno/bruno-docs) (6 months ago)
 - [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (1 year ago)
@@ -32,7 +35,6 @@
 - [Build phar after release](https://github.com/LeoVie/phpstan-baseline-guard/pull/11) on [LeoVie/phpstan-baseline-guard](https://github.com/LeoVie/phpstan-baseline-guard) (2 years ago)
 - [Fix edge case: Baseline is not empty, but actual result is empty](https://github.com/LeoVie/clover-crap-check/pull/9) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 years ago)
 - [Allow crap check results to have different order and still be conside…](https://github.com/LeoVie/clover-crap-check/pull/8) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 years ago)
-- [Add failing test fixture for NewInInitializerRector](https://github.com/rectorphp/rector-src/pull/3516) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 years ago)
 
 #### ⭐ Recent Stars
 
