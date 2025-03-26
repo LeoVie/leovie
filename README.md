@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v1.0.3](https://github.com/LeoVie/clover-crap-check/releases/tag/v1.0.3), 2 years ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v2.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v2.0.2), today) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 
 #### 🔨 My recent Pull Requests
 
@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (today)
 - [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (10 months ago)
 - [renyuneyun/parse-link-header-ts](https://github.com/renyuneyun/parse-link-header-ts) - Parses a link header and returns paging information for each contained link. (1 year ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (1 year ago)
@@ -47,7 +48,6 @@
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (2 years ago)
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. (2 years ago)
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP  (3 years ago)
-- [edekeijzer/OctoPrint-PSUControl-HomeAssistant](https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant) -  (3 years ago)
 
 #### 📫 How to reach me
 
