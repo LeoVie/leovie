@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (today)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (2 days ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (1 month ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 year ago)
@@ -22,6 +23,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v2.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v2.0.2), 2 days ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
+- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) ([v1.7.2](https://github.com/matterpoll/matterpoll/releases/tag/v1.7.2), 6 months ago) - Create polls and surveys directly within Mattermost
 
 #### 🔨 My recent Pull Requests
 
