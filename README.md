@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (1 day ago)
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (2 days ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (1 month ago)
 - [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 year ago)
 
@@ -21,11 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v2.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v2.0.2), 1 day ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
+- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v2.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v2.0.2), 2 days ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependencies, require php 8.4](https://github.com/LeoVie/clover-crap-check/pull/11) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 day ago)
+- [Update dependencies, require php 8.4](https://github.com/LeoVie/clover-crap-check/pull/11) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (2 days ago)
 - [fix: add missing space before headerClass (#138)](https://github.com/siemens/ngx-datatable/pull/139) on [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable) (2 months ago)
 - [#112 Remove dead menu link](https://github.com/usebruno/bruno-docs/pull/113) on [usebruno/bruno-docs](https://github.com/usebruno/bruno-docs) (6 months ago)
 - [fix(_Sidebar): broken stickers link](https://github.com/ohmyzsh/wiki/pull/43) on [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) (1 year ago)
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (1 day ago)
+- [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (2 days ago)
 - [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (10 months ago)
 - [renyuneyun/parse-link-header-ts](https://github.com/renyuneyun/parse-link-header-ts) - Parses a link header and returns paging information for each contained link. (1 year ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (1 year ago)
