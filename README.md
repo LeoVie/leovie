@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (6 days ago)
+- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (1 week ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (1 week ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (1 month ago)
 
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [#596: fix small typo in german translation](https://github.com/matterpoll/matterpoll/pull/597) on [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) (6 days ago)
+- [#596: fix small typo in german translation](https://github.com/matterpoll/matterpoll/pull/597) on [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) (1 week ago)
 - [Update dependencies, require php 8.4](https://github.com/LeoVie/clover-crap-check/pull/11) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (1 week ago)
 - [fix: add missing space before headerClass (#138)](https://github.com/siemens/ngx-datatable/pull/139) on [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable) (2 months ago)
 - [#112 Remove dead menu link](https://github.com/usebruno/bruno-docs/pull/113) on [usebruno/bruno-docs](https://github.com/usebruno/bruno-docs) (6 months ago)
