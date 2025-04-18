@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (2 weeks ago)
+- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (3 weeks ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (3 weeks ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (1 month ago)
 
@@ -21,12 +21,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) ([v1.8.0](https://github.com/matterpoll/matterpoll/releases/tag/v1.8.0), 3 days ago) - Create polls and surveys directly within Mattermost
+- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) ([v1.8.0](https://github.com/matterpoll/matterpoll/releases/tag/v1.8.0), 4 days ago) - Create polls and surveys directly within Mattermost
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v2.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v2.0.2), 3 weeks ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 
 #### 🔨 My recent Pull Requests
 
-- [#596: fix small typo in german translation](https://github.com/matterpoll/matterpoll/pull/597) on [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) (2 weeks ago)
+- [#596: fix small typo in german translation](https://github.com/matterpoll/matterpoll/pull/597) on [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) (3 weeks ago)
 - [Update dependencies, require php 8.4](https://github.com/LeoVie/clover-crap-check/pull/11) on [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) (3 weeks ago)
 - [fix: add missing space before headerClass (#138)](https://github.com/siemens/ngx-datatable/pull/139) on [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable) (3 months ago)
 - [#112 Remove dead menu link](https://github.com/usebruno/bruno-docs/pull/113) on [usebruno/bruno-docs](https://github.com/usebruno/bruno-docs) (7 months ago)
