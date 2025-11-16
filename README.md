@@ -4,7 +4,7 @@
 
 - [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (7 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (7 months ago)
-- [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (8 months ago)
+- [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (9 months ago)
 
 #### 🌱 My latest projects
 
