@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [d-koppenhagen/2026-02-11-Mind_the_A11y_Gap](https://github.com/d-koppenhagen/2026-02-11-Mind_the_A11y_Gap) - Talk Slides: Mind the A11y Gap - Bridging Accessibility Pitfalls (today)
+- [d-koppenhagen/2026-02-11-Mind_the_A11y_Gap](https://github.com/d-koppenhagen/2026-02-11-Mind_the_A11y_Gap) - Talk Slides: Mind the A11y Gap - Bridging Accessibility Pitfalls (1 day ago)
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules. (8 months ago)
 - [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (10 months ago)
 - [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (2 years ago)
