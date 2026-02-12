@@ -2,12 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (today)
 - [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (10 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (10 months ago)
 - [LeoVie/leovie](https://github.com/LeoVie/leovie) - Generates fancy Github profile readme (11 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) - 
 - [LeoVie/filecount-api](https://github.com/LeoVie/filecount-api) - Stupid simple REST API to list count of files with specified extension in specified directories.
 - [LeoVie/phpstorm-templates](https://github.com/LeoVie/phpstorm-templates) - Custom PhpStorm templates
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
@@ -17,7 +19,6 @@
 - [LeoVie/xdry](https://github.com/LeoVie/xdry) - Programming language agnostic clone detection
 - [LeoVie/xdry-javascript-plugin](https://github.com/LeoVie/xdry-javascript-plugin) - JavaScript plugin for xdry
 - [LeoVie/xdry-php-plugin](https://github.com/LeoVie/xdry-php-plugin) - PHP plugin for xdry
-- [LeoVie/jetbrains-wsl-cli-adapter](https://github.com/LeoVie/jetbrains-wsl-cli-adapter) - Allows you to use the CLI of JetBrains IDEs for Windows via WSL
 
 #### 🔭 Latest releases I've contributed to
 
