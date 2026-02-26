@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (1 week ago)
+- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (2 weeks ago)
 - [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) - Create polls and surveys directly within Mattermost (11 months ago)
 - [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold (11 months ago)
 
