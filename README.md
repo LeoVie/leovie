@@ -22,7 +22,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) ([v1.8.0](https://github.com/matterpoll/matterpoll/releases/tag/v1.8.0), 11 months ago) - Create polls and surveys directly within Mattermost
-- [LeoVie/clover-crap-check](https://github.com/LeoVie/clover-crap-check) ([v2.0.2](https://github.com/LeoVie/clover-crap-check/releases/tag/v2.0.2), 1 year ago) - Reads the clover.xml report from phpunit and checks, if all files have a CRAP index below a specified threshold
 
 #### 🔨 My recent Pull Requests
 
