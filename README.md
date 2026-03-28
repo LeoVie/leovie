@@ -21,7 +21,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [matterpoll/matterpoll](https://github.com/matterpoll/matterpoll) ([v1.8.0](https://github.com/matterpoll/matterpoll/releases/tag/v1.8.0), 11 months ago) - Create polls and surveys directly within Mattermost
 
 #### 🔨 My recent Pull Requests
 
