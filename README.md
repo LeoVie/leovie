@@ -36,12 +36,12 @@
 #### ⭐ Recent Stars
 
 - [d-koppenhagen/2026-02-11-Mind_the_A11y_Gap](https://github.com/d-koppenhagen/2026-02-11-Mind_the_A11y_Gap) - Talk Slides: Mind the A11y Gap - Bridging Accessibility Pitfalls (2 months ago)
-- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules. (10 months ago)
+- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules. (11 months ago)
 - [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (1 year ago)
 - [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (2 years ago)
 - [renyuneyun/parse-link-header-ts](https://github.com/renyuneyun/parse-link-header-ts) - Parses a link header and returns paging information for each contained link. (2 years ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (2 years ago)
-- [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (2 years ago)
+- [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (3 years ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (3 years ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (3 years ago)
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (3 years ago)
