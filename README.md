@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (2 months ago)
+- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (3 months ago)
 
 #### 🌱 My latest projects
 
