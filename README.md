@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (today)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 day ago)
 - [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (5 months ago)
 
 #### 🌱 My latest projects
