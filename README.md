@@ -36,6 +36,7 @@
 
 #### ⭐ Recent Stars
 
+- [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras (today)
 - [d-koppenhagen/2026-02-11-Mind_the_A11y_Gap](https://github.com/d-koppenhagen/2026-02-11-Mind_the_A11y_Gap) - Talk Slides: Mind the A11y Gap - Bridging Accessibility Pitfalls (6 months ago)
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules. (1 year ago)
 - [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (1 year ago)
@@ -45,7 +46,6 @@
 - [Danack/RfcCodex](https://github.com/Danack/RfcCodex) - Notes on PHP RFCs, and topics that occur repeatedly on PHP internals (3 years ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (3 years ago)
 - [krakphp/money-normalizer](https://github.com/krakphp/money-normalizer) - Money Normalizer (3 years ago)
-- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications (4 years ago)
 
 #### 📫 How to reach me
 
