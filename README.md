@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (5 days ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (6 days ago)
 - [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@
 
 - [LeoVie/cookbook](https://github.com/LeoVie/cookbook) -  (2 weeks ago)
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras (2 months ago)
-- [d-koppenhagen/2026-02-11-Mind_the_A11y_Gap](https://github.com/d-koppenhagen/2026-02-11-Mind_the_A11y_Gap) - Talk Slides: Mind the A11y Gap - Bridging Accessibility Pitfalls (8 months ago)
+- [d-koppenhagen/2026-02-11-Mind_the_A11y_Gap](https://github.com/d-koppenhagen/2026-02-11-Mind_the_A11y_Gap) - Talk Slides: Mind the A11y Gap - Bridging Accessibility Pitfalls (9 months ago)
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules. (1 year ago)
 - [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit. (2 years ago)
 - [nihalgonsalves/pg-error-enum](https://github.com/nihalgonsalves/pg-error-enum) - TypeScript Enum for Postgres Errors with no runtime dependencies. Also compatible with plain JavaScript. (2 years ago)
