@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (6 days ago)
-- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (8 months ago)
+- [LeoVie/aliasses](https://github.com/LeoVie/aliasses) - Git and Bash aliasses (1 week ago)
+- [LeoVie/infection-issue](https://github.com/LeoVie/infection-issue) -  (9 months ago)
 
 #### 🌱 My latest projects
 
